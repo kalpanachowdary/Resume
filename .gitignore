@@ -1,0 +1,4 @@
+AppData/
+.vscode/
+node_modules/
+*.pma
